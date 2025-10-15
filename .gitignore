@@ -1,0 +1,48 @@
+# Python cache and environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.arrow
+venv/
+env/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+# Models
+models/evaluator/llama3_8B_instruct_model/
+models/baselines
+
+# Data files (if large or sensitive)
+# data/
+# *.csv
+# *.json
+# *.h5
+# *.pt
+# *.ckpt
+
+data/baselines/
+
+# Logs and outputs
+logs/
+*.log
+outputs/
+
+# Experiment tracking / MLflow / WandB
+.mlflow/
+wandb/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
