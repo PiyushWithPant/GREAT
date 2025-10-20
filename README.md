@@ -3,7 +3,7 @@
 🧑‍🔬 **Authors:** Subrat Kishore Dutta, Yuelin Xu, Piyush Pant, Xiao Zhang 
 
 
-🧬 **AIR-ML Lab**  - Adversarial, Interpretable, and Robust Machine Learning Lab, CISPA
+🧬 **AIR-ML Lab**  - [Adversarial, Interpretable, and Robust Machine Learning Lab, CISPA](https://air-ml.org)
 
 
 📚 **Publication:** [arXiv →](https://arxiv.org/abs/2510.09260)
